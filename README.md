@@ -67,7 +67,7 @@ ExpensifyX/
 │
 ├── .gitignore
 └── README.md
-
+```
 How It Works
 
 The frontend communicates with the backend using REST APIs.
