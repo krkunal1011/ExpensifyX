@@ -46,9 +46,11 @@ RESTful APIs
 
 Environment-based configuration using .env
 
-Project Structure
+#### Project Structure
 
+```text
 ExpensifyX/
+│
 ├── backend/
 │   ├── controllers/
 │   ├── models/
